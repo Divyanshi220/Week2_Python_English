@@ -70,5 +70,3 @@ print(c is d)
 NOTE: Keys of dictionary can only be a immutables object is wrong.
       Keys of dictionary can only be a hashable object.        
 '''
-Footer
-© 2022 GitHub, Inc
